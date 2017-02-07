@@ -3,6 +3,13 @@
 * 一個有趣的 Collection 小練習題~ 謝謝 Jenny Chang
 * source: <https://gist.github.com/lanlove/8d063292278a4c075c66b859d6c48ca3>
 
+### 使用方式：
+
+* `git clone git@github.com:dj1020/collectionKataFromLanlove.git`
+* `cd collectionKataFromLanlove`
+* `composer install` 為了要有 Collection 類別可以用
+* `php transData.php` 可以看到結果
+
 ---
 
 ### 原始資料：
