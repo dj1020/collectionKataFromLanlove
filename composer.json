@@ -1,0 +1,6 @@
+{
+    "name": "twinkledj/collection-sandbox",
+    "require": {
+        "illuminate/support": "^5.4"
+    }
+}
